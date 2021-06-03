@@ -1,0 +1,50 @@
+{
+  "name": "YFDAI",
+  "logoURI": "https://raw.githubusercontent.com/Cryption-Digital-Services/ydai-list/43d883081319c532430557d5dac710d3ddbb6d70/Logo.svg",
+  "keywords": ["defi", "yfdai", "yield"],
+  "timestamp": "2020-11-23T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577",
+      "name": "YfDAI.finance",
+      "symbol": "Yf-DAI",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0xe14e06671702f0db50055388c29adc66821d933b",
+      "name": "IMPULSEVEN",
+      "symbol": "VEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Cryption-Digital-Services/ydai-list/master/logoyfdai.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
+      "name": "DIGITAL FITNESS",
+      "symbol": "DEFIT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
+      "name": "Ferrum Network Token",
+      "symbol": "FRM",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x26ce25148832c04f3d7f26f32478a9fe55197166",
+      "name": " DEXTools",
+      "symbol": "DEXT",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
