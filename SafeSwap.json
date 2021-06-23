@@ -1,10 +1,12 @@
 {
-    "name": "YFDAI",
-    "logoURI": "https://etherscan.io/token/images/yfdaifinance3_32.png",
+    "name": "SSGT",
+    "logoURI": "https://etherscan.io/token/images/safeswapyfdai_32.png",
     "keywords": [
       "defi",
       "yfdai",
-      "yield"
+      "yield",
+      "SSGT",
+      "SafeSwap"
     ],
     "timestamp": "2021-06-23T12:20:34.305Z",
     "tokens": [
