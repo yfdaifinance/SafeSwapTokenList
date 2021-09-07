@@ -31,7 +31,7 @@
     {
       "name": "Curve DAO Token",
       "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
-      "symbol": "USDT",
+      "symbol": "CRV",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://etherscan.io/token/images/Curvefi_32.png"
@@ -39,7 +39,7 @@
     {
       "name": "Dai Stablecoin",
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
-      "symbol": "USDT",
+      "symbol": "DAI",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://etherscan.io/token/images/MCDDai_32.png"
@@ -51,14 +51,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://etherscan.io/token/images/chainlinktoken_32.png?v=6"
-    },
-    {
-      "name": "Uniswap",
-      "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
-      "symbol": "UNI",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://etherscan.io/token/images/uniswap_32.png"
     },
     {
       "name": "Uniswap",
@@ -91,14 +83,6 @@
       "symbol": "DEXT",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/dextools_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x0cdf14B01692c57fD8d066A053B3A0FA0Aa2Fc11",
-      "name": "Ferrum Network Token",
-      "symbol": "FRM",
-      "decimals": 6,
-      "logoURI": "https://etherscan.io/token/images/ferrumnetworktoken_32.png"
     },
     {
       "chainId": 137,
