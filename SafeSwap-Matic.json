@@ -93,14 +93,6 @@
       "logoURI": "https://etherscan.io/token/images/ferrumnetworktoken_32.png"
     },
     {
-      "name": "Wrapped Matic",
-      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      "symbol": "WMATIC",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
-    },
-    {
       "chainId": 137,
       "address": "0x3c5D1617C30BA71972adD4b0C9A6B9848f2afeeD",
       "name": " DAO1",
