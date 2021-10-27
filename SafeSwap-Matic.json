@@ -22,7 +22,7 @@
     },
     {
       "name": "Tether USD",
-      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 137,
@@ -63,7 +63,7 @@
     {
       "chainId": 137,
       "address": "0x914034f0FF781c430Aa9594851cC95806fd19dc6",
-      "name": "SafeSwap Governance Token",
+      "name": "SafeSwap",
       "symbol": "SSGT",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/safeswapyfdai_32.png"
@@ -71,7 +71,7 @@
     {
       "chainId": 137,
       "address": "0xd0cfd20E8bBDb7621B705a4FD61de2E80C2cD02F",
-      "name": "SafeSwap Governance Token",
+      "name": "Safeswap SSGTx",
       "symbol": "SSGTx",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/safeswapyfdai_32.png"
@@ -83,22 +83,6 @@
       "symbol": "Yf-DAI",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/yfdaifinance3_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xff835562C761205659939B64583dd381a6AA4D92",
-      "name": "DEXTools",
-      "symbol": "DEXT",
-      "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/dextools_32.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x0cdf14B01692c57fD8d066A053B3A0FA0Aa2Fc11",
-      "name": "Ferrum Network Token",
-      "symbol": "FRM",
-      "decimals": 6,
-      "logoURI": "https://etherscan.io/token/images/ferrumnetworktoken_32.png"
     },
     {
       "chainId": 137,
@@ -114,7 +98,7 @@
       "symbol": "QUICK",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+      "logoURI": "https://polygonscan.com/token/images/quickswap_32.png"
     },
     {
       "name": "Wrapped Ether",
@@ -125,9 +109,9 @@
       "logoURI": "https://polygonscan.com/token/images/wETH_32.png"
     },
     {
-      "name": "Wrapped Ether",
-      "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
-      "symbol": "WETH",
+      "name": "Wrapped Matic",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://polygonscan.com/token/images/wMatic_32.png"
