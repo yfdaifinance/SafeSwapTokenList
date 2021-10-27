@@ -126,7 +126,7 @@
       "value":null
     },
     {
-      "name":"usdt",
+      "name":"tether",
       "tokenProd":"0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "tokenDev":"",
       "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=tether&vs_currencies=USD&vs_currencies=USD",
