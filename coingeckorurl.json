@@ -63,7 +63,7 @@
        "value":569.08
     },
     {
-      "name":"orn",
+      "name":"orion-protocol",
       "tokenProd":"0x0EE392bA5ef1354c9bd75a98044667d307C0e773",
       "tokenDev":"",
       "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=orion-protocol&vs_currencies=USD&vs_currencies=USD",
@@ -91,7 +91,7 @@
       "value":null
     },
     {
-      "name":"crv",
+      "name":"curve-dao-token",
       "tokenProd":"0x172370d5cd63279efa6d502dab29171933a610af",
       "tokenDev":"",
       "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=curve-dao-token&vs_currencies=USD&vs_currencies=USD",
@@ -105,21 +105,21 @@
       "value":null
     },
     {
-      "name":"link",
+      "name":"chainlink",
       "tokenProd":"0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
       "tokenDev":"",
       "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=chainlink&vs_currencies=USD&vs_currencies=USD",
       "value":null
     },
     {
-      "name":"uni",
+      "name":"uniswap",
       "tokenProd":"0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
       "tokenDev":"",
       "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=uniswap&vs_currencies=USD&vs_currencies=USD",
       "value":null
     },
     {
-      "name":"usdc",
+      "name":"usd-coin",
       "tokenProd":"0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "tokenDev":"",
       "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=usd-coin&vs_currencies=USD&vs_currencies=USD",
