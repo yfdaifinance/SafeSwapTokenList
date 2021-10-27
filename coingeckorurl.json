@@ -1,12 +1,5 @@
 [
     {
-       "name":"tether",
-       "tokenProd":"0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-       "tokenDev":"",
-       "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=tether&vs_currencies=USD",
-       "value":null
-    },
-    {
        "name":"weth",
        "tokenProd":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
        "tokenDev":"0xDf032Bc4B9dC2782Bb09352007D4C57B75160B15",
