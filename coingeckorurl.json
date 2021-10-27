@@ -77,10 +77,10 @@
       "value":null
     },
     {
-      "name":"matic",
+      "name":"wmatic",
       "tokenProd":"0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "tokenDev":"",
-      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=matic-network&vs_currencies=USD&vs_currencies=USD",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=wmatic&vs_currencies=USD&vs_currencies=USD",
       "value":null
     },
     {
