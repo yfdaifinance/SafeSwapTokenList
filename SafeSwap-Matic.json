@@ -22,7 +22,7 @@
     },
     {
       "name": "Tether USD",
-      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 137,
@@ -63,7 +63,7 @@
     {
       "chainId": 137,
       "address": "0x914034f0FF781c430Aa9594851cC95806fd19dc6",
-      "name": "SafeSwap Governance Token",
+      "name": "SafeSwap",
       "symbol": "SSGT",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/safeswapyfdai_32.png"
@@ -71,7 +71,7 @@
     {
       "chainId": 137,
       "address": "0xd0cfd20E8bBDb7621B705a4FD61de2E80C2cD02F",
-      "name": "SafeSwap Governance Token",
+      "name": "Safeswap(SSGTx)",
       "symbol": "SSGTx",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/safeswapyfdai_32.png"
@@ -98,7 +98,7 @@
       "symbol": "QUICK",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+      "logoURI": "https://polygonscan.com/token/images/quickswap_32.png"
     },
     {
       "name": "Wrapped Ether",
