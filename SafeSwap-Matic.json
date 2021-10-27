@@ -71,7 +71,7 @@
     {
       "chainId": 137,
       "address": "0xd0cfd20E8bBDb7621B705a4FD61de2E80C2cD02F",
-      "name": "Safeswap(SSGTx)",
+      "name": "Safeswap SSGTx",
       "symbol": "SSGTx",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/safeswapyfdai_32.png"
