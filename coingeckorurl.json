@@ -1,7 +1,7 @@
 [
     {
        "name":"tether",
-       "tokenProd":"0xdac17f958d2ee523a2206206994597c13d831ec7",
+       "tokenProd":"0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
        "tokenDev":"",
        "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=tether&vs_currencies=USD",
        "value":null
@@ -22,28 +22,28 @@
     },
     {
        "name":"defit",
-       "tokenProd":"0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
+       "tokenProd":"0x428360b02c1269bc1c79fbc399ad31d58c1e8fda",
        "tokenDev":"",
        "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=defit&vs_currencies=USD&vs_currencies=USD",
        "value":null
     },
     {
        "name":"yfdai-finance",
-       "tokenProd":"0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577",
+       "tokenProd":"0x7E7fF932FAb08A0af569f93Ce65e7b8b23698Ad8",
        "tokenDev":"",
        "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=yfdai-finance&vs_currencies=USD&vs_currencies=USD",
        "value":null
     },
     {
        "name":"safeswap",
-       "tokenProd":"0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161",
+       "tokenProd":"0x914034f0ff781c430aa9594851cc95806fd19dc6",
        "tokenDev":"",
        "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=safeswap&vs_currencies=USD&vs_currencies=USD",
        "value":null
     },
     {
        "name":"dao1",
-       "tokenProd":"0xce3f6f6672616c39d8b6858f8dac9902eca42c84",
+       "tokenProd":"0x3c5D1617C30BA71972adD4b0C9A6B9848f2afeeD",
        "tokenDev":"",
        "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=dao1&vs_currencies=USD&vs_currencies=USD",
        "value":null
@@ -68,5 +68,75 @@
        "tokenDev":"",
        "tokenUrl":null,
        "value":569.08
+    },
+    {
+      "name":"orn",
+      "tokenProd":"0x0EE392bA5ef1354c9bd75a98044667d307C0e773",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=orion-protocol&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
+      "name":"matic",
+      "tokenProd":"0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=matic-network&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
+      "name":"dai",
+      "tokenProd":"0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=dai&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
+      "name":"aave",
+      "tokenProd":"0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=aave&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
+      "name":"crv",
+      "tokenProd":"0x172370d5cd63279efa6d502dab29171933a610af",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=curve-dao-token&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
+      "name":"quick",
+      "tokenProd":"0x831753dd7087cac61ab5644b308642cc1c33dc13",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=quick&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
+      "name":"link",
+      "tokenProd":"0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=chainlink&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
+      "name":"uni",
+      "tokenProd":"0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=uniswap&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
+      "name":"usdc",
+      "tokenProd":"0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=usd-coin&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
+      "name":"usdt",
+      "tokenProd":"0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=tether&vs_currencies=USD&vs_currencies=USD",
+      "value":null
     }
  ]
