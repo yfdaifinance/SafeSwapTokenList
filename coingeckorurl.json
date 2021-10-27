@@ -126,6 +126,13 @@
       "value":null
     },
     {
+      "name":"ssgtx",
+      "tokenProd":"0xd0cfd20E8bBDb7621B705a4FD61de2E80C2cD02F",
+      "tokenDev":"",
+      "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=safeswap&vs_currencies=USD&vs_currencies=USD",
+      "value":null
+    },
+    {
       "name":"tether",
       "tokenProd":"0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "tokenDev":"",
