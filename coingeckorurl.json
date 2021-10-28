@@ -21,6 +21,13 @@
        "value":null
     },
     {
+       "name":"impulseven",
+       "tokenProd":"0xF8d7195eEB28c7449f7ef8557fF9A4Da86da0c64",
+       "tokenDev":"",
+       "tokenUrl":"https://api.coingecko.com/api/v3/simple/price?ids=impulseven&vs_currencies=USD&vs_currencies=USD",
+       "value":null
+    },
+    {
        "name":"yfdai-finance",
        "tokenProd":"0x7E7fF932FAb08A0af569f93Ce65e7b8b23698Ad8",
        "tokenDev":"",
