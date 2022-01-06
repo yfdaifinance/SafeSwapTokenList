@@ -70,6 +70,20 @@
     "value": 1
   },
   {
+    "name": "bdc",
+    "tokenProd": "0x6b98030a4724ef9fce74f50155a661af9548289c",
+    "tokenDev": "",
+    "tokenUrl": null,
+    "value": 1
+  },
+  {
+    "name": "apj",
+    "tokenProd": "0x783b5af21fd4e99cf98ebe469a2f63dcfde6c738",
+    "tokenDev": "",
+    "tokenUrl": null,
+    "value": 1
+  },
+  {
     "name": "orion-protocol",
     "tokenProd": "0x0EE392bA5ef1354c9bd75a98044667d307C0e773",
     "tokenDev": "",
